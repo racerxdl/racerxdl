@@ -30,7 +30,7 @@ Lucas Teske, nascido em 8 de novembro de 1991 em São José dos Campos (São Pau
 * Site: https://lucasteske.dev
 * TwitchTV: https://twitch.tv/racerxdl
 * YouTube: https://youtube.com/c/TeskesLab
-
+* LinkedIn: https://www.linkedin.com/in/lucas-teske-8206301b/
 
 <!--
 **racerxdl/racerxdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
