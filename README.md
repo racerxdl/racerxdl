@@ -1,4 +1,4 @@
-![Banner](/assets/banner-about.jpeg)
+![Banner](/banner-about.jpeg)
 
 ### Hello There!
 
