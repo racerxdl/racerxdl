@@ -1,4 +1,36 @@
-### Hi there 👋
+![Banner)(/assets/banner-about.jpeg)
+
+### Hello There!
+
+Lucas Teske, born November, 8 of 1991 in São José dos Campos (São Paulo / Brazil). Lives in South of the São Paulo capital and has great interest in tecnological researchs.
+
+It is Creator of [OpenSatelliteProject](https://github.com/OpenSatelliteProject/), [SegDSP](https://github.com/racerxdl/segdsp) and other stuff.
+
+### BRBR?
+
+Lucas Teske, nascido em 8 de novembro de 1991 em São José dos Campos (São Paulo / Brasil). Vive na região sul da capital de São Paulo e tem um grande interesse em pesquisas tecnológicas.
+
+É o criador do [OpenSatelliteProject](https://github.com/OpenSatelliteProject/), [SegDSP](https://github.com/racerxdl/segdsp) e outras coisas.
+
+### LIKES
+
+* High Voltage (Alta tensão)
+* Chemistry (Química)
+* Programming (Programação)
+* Hacking
+* SDR
+* Satellites (Satélites)
+* Satellite Dishes (Parabólicas)
+* Tesla Coils (Bobinas de Tesla)
+* Drones
+
+### Contacts / Contatos
+
+* HAM Callsign: PU2NVX
+* Site: https://lucasteske.dev
+* TwitchTV: https://twitch.tv/racerxdl
+* YouTube: https://youtube.com/c/TeskesLab
+
 
 <!--
 **racerxdl/racerxdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
