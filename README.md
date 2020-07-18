@@ -26,7 +26,7 @@ Lucas Teske, nascido em 8 de novembro de 1991 em São José dos Campos (São Pau
 
 ### Contacts / Contatos
 
-* HAM Callsign: [PU2NVX](https://www.qrz.com/db/PU2NVX)
+* HAM Callsign: [PU2NVX](https://www.qrzcq.com/call/PU2NVX)
 * Site: https://lucasteske.dev
 * TwitchTV: https://twitch.tv/racerxdl
 * YouTube: https://youtube.com/c/TeskesLab
