@@ -1,4 +1,4 @@
-![Banner](/banner-about.jpeg)
+![Banner](https://lucasteske.dev/assets/banner-about.jpeg)
 
 ### Hello There!
 
