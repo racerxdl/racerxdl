@@ -6,7 +6,7 @@ Lucas Teske, born November, 8 of 1991 in São José dos Campos (São Paulo / Bra
 
 It is Creator of [OpenSatelliteProject](https://github.com/OpenSatelliteProject/), [SegDSP](https://github.com/racerxdl/segdsp) and other stuff.
 
-### BRBR?
+### 🇧🇷 ?BRBR? 🇧🇷	
 
 Lucas Teske, nascido em 8 de novembro de 1991 em São José dos Campos (São Paulo / Brasil). Vive na região sul da capital de São Paulo e tem um grande interesse em pesquisas tecnológicas.
 
@@ -23,18 +23,18 @@ Lucas Teske, nascido em 8 de novembro de 1991 em São José dos Campos (São Pau
 </table>
 </center>
 
-### LIKES
+### 👍 LIKES 👍
 
-* High Voltage (Alta tensão)
-* Chemistry (Química)
-* Programming (Programação)
-* Hacking
-* SDR
-* Satellites (Satélites)
-* Satellite Dishes (Parabólicas)
-* Tesla Coils (Bobinas de Tesla)
-* Drones
-* FPGA's (Specially the ones supported by [YosysHQ](https://github.com/YosysHQ))
+* ⚡ High Voltage (Alta tensão)
+* ☢ Chemistry (Química)
+* ⌨ Programming (Programação)
+* ⌨ Hacking
+* 🛰 SDR
+* 🛰 Satellites (Satélites)
+* 🛰 Satellite Dishes (Parabólicas)
+* ⚡ Tesla Coils (Bobinas de Tesla)
+* 🚁 Drones
+* ⌨ FPGA's (Specially the ones supported by [YosysHQ](https://github.com/YosysHQ))
 
 ### Contacts / Contatos
 
