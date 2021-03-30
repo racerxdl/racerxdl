@@ -12,6 +12,17 @@ Lucas Teske, nascido em 8 de novembro de 1991 em São José dos Campos (São Pau
 
 É o criador do [OpenSatelliteProject](https://github.com/OpenSatelliteProject/), [SegDSP](https://github.com/racerxdl/segdsp) e outras coisas.
 
+
+### ✨ Github Stats ✨
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racerxdl&hide=html&layout=compact&theme=radical" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=racerxdl&theme=radical&show_icons=true" /></td>
+  </tr>  
+</table>
+</center>
+
 ### LIKES
 
 * High Voltage (Alta tensão)
@@ -23,6 +34,7 @@ Lucas Teske, nascido em 8 de novembro de 1991 em São José dos Campos (São Pau
 * Satellite Dishes (Parabólicas)
 * Tesla Coils (Bobinas de Tesla)
 * Drones
+* FPGA's (Specially the ones supported by [YosysHQ](https://github.com/YosysHQ))
 
 ### Contacts / Contatos
 
@@ -31,6 +43,7 @@ Lucas Teske, nascido em 8 de novembro de 1991 em São José dos Campos (São Pau
 * TwitchTV: https://twitch.tv/racerxdl
 * YouTube: https://youtube.com/c/TeskesLab
 * LinkedIn: https://www.linkedin.com/in/lucas-teske-8206301b/
+
 
 <!--
 **racerxdl/racerxdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,3 +59,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
