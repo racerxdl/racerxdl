@@ -17,7 +17,7 @@ Lucas Teske, nascido em 8 de novembro de 1991 em São José dos Campos (São Pau
 <center>
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-      <td><img width="360px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racerxdl&hide=html&layout=compact&theme=dracula" /></td>
+      <td><img width="360px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racerxdl&hide=html&layout=compact&theme=dracula&langs_count=10" /></td>
       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api?username=racerxdl&theme=dracula&show_icons=true" /></td>
   </tr>  
 </table>
