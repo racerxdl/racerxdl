@@ -25,6 +25,8 @@ Lucas Teske, nascido em 8 de novembro de 1991 em São José dos Campos (São Pau
 
 [![Check out racerxdl's profile on stardev.io](https://stardev.io/developers/racerxdl/badge/languages/global.svg)](https://stardev.io/developers/racerxdl)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=racerxdl)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 👍 LIKES 👍
 
 * ⚡ High Voltage (Alta tensão)
