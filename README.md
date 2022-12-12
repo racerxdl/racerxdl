@@ -14,18 +14,21 @@ Lucas Teske, nascido em 8 de novembro de 1991 em São José dos Campos (São Pau
 
 
 ### ✨ Github Stats ✨
-<center>
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-      <td><img width="360px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racerxdl&hide=html&layout=compact&theme=dracula&langs_count=10" /></td>
-      <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api?username=racerxdl&theme=dracula&show_icons=true" /></td>
-  </tr>  
-</table>
-</center>
+<p>
+  <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racerxdl&hide=html&layout=compact&theme=dracula&langs_count=10" />
+  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=racerxdl&theme=dracula&show_icons=true" />
+</p>
 
-[![Check out racerxdl's profile on stardev.io](https://stardev.io/developers/racerxdl/badge/languages/global.svg)](https://stardev.io/developers/racerxdl)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=racerxdl)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p>
+  <a href="https://stardev.io/developers/racerxdl">
+    <img width="410px"alt="Check out racerxdl's profile on stardev.io" src="https://stardev.io/developers/racerxdl/badge/languages/global.svg"/>
+  </a>
+  <a href="[https://stardev.io/developers/racerxdl](https://github.com/ryo-ma/github-profile-trophy)">
+    <img width="410px"alt="Check out racerxdl's profile on stardev.io" src="https://github-profile-trophy.vercel.app/?username=racerxdl"/>
+  </a>
+</p>
 
 ### 👍 LIKES 👍
 
